@@ -1,4 +1,4 @@
-# yolov8 & tracking
+# Yolov8 & Strong Sort tracking (Top 12 AICity2022)
 
 ### Setup
 ```
